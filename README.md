@@ -68,4 +68,3 @@ This project is open source under the MIT License.
 Gaurav Negi
 Made with ❤️ and MERN!
 
-Let me know if you want me to generate the `.env.example` file content too.
